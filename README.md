@@ -65,6 +65,15 @@ To launch the terminal interface, run:
 python main.py
 ```
 
+## 🧪 Demo Credentials
+For testing purposes, you can use the following pre-configured account:
+
+* **Username:** `Admin`
+* **Password:** `GoldsmithsUni@2026`
+
+>**Note:**
+> These credentials are for demonstration only. In a production environment, we will never share or hardcode administrative credentials.
+
 ## ⚖ Ethical Considerations
 - All testing and simulations are performed locally on test accounts only.
 
