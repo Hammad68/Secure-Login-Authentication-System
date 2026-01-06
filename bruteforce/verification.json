@@ -1,0 +1,7 @@
+{
+    "admin": {
+        "password_fails": 0,
+        "otp_failed": 0,
+        "locked_until": 0
+    }
+}
